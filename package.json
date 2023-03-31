@@ -1,13 +1,13 @@
 {
   "dependencies": {
     "dotenv": "^16.0.3",
-    "openai": "^3.2.1"
+    "openai": "^3.2.1",
+    "socket.io-client": "^4.6.1"
   },
   "name": "openai",
   "version": "1.0.0",
   "type": "module",
   "main": "script.js",
-  "devDependencies": {},
   "scripts": {
     "dev": "node script.js"
   },
